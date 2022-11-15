@@ -1,0 +1,15 @@
+E:\GIT Education\Examples.DYV\Example07\obj\Debug\net6.0\Example07.csproj.AssemblyReference.cache
+E:\GIT Education\Examples.DYV\Example07\obj\Debug\net6.0\Example07.GeneratedMSBuildEditorConfig.editorconfig
+E:\GIT Education\Examples.DYV\Example07\obj\Debug\net6.0\Example07.AssemblyInfoInputs.cache
+E:\GIT Education\Examples.DYV\Example07\obj\Debug\net6.0\Example07.AssemblyInfo.cs
+E:\GIT Education\Examples.DYV\Example07\obj\Debug\net6.0\Example07.csproj.CoreCompileInputs.cache
+E:\GIT Education\Examples.DYV\Example07\bin\Debug\net6.0\Example07.exe
+E:\GIT Education\Examples.DYV\Example07\bin\Debug\net6.0\Example07.deps.json
+E:\GIT Education\Examples.DYV\Example07\bin\Debug\net6.0\Example07.runtimeconfig.json
+E:\GIT Education\Examples.DYV\Example07\bin\Debug\net6.0\Example07.dll
+E:\GIT Education\Examples.DYV\Example07\bin\Debug\net6.0\Example07.pdb
+E:\GIT Education\Examples.DYV\Example07\obj\Debug\net6.0\Example07.dll
+E:\GIT Education\Examples.DYV\Example07\obj\Debug\net6.0\refint\Example07.dll
+E:\GIT Education\Examples.DYV\Example07\obj\Debug\net6.0\Example07.pdb
+E:\GIT Education\Examples.DYV\Example07\obj\Debug\net6.0\Example07.genruntimeconfig.cache
+E:\GIT Education\Examples.DYV\Example07\obj\Debug\net6.0\ref\Example07.dll
